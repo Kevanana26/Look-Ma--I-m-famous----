@@ -1,4 +1,8 @@
 .bg-hero-image{
-    background-image: ('imgs/Hamilton.jpg');
+    background-image: url('imgs/Hamilton.jpg');
     background-position: center center;
+}
+
+a.{
+    text-color:black
 }
